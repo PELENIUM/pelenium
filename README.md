@@ -1,9 +1,8 @@
 ![Header](HLN7.gif)
 
-#
-
 ## __Страус?__
 
+#
 
 ## __Языки__
 
@@ -14,3 +13,4 @@
 [![PELENIUM's GitHub stats](https://github-readme-stats.vercel.app/api?username=PELENIUM&show_icons=true&theme=onedark)](https://github.com/PELENIUM/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelenium&theme=onedark)](https://github.com/pelenium/github-readme-stats)
+
