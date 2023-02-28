@@ -1,16 +1,17 @@
-### Hi there 👋
+![Header](HLN7.gif)
 
-<!--
-**PELENIUM/pelenium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+## __Страус?__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+## __Языки__
+
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&&logoColor=ffffff&style=social)
+![SFML](https://img.shields.io/badge/SFML-000000?style=for-the-badge&logo=sfml&logoColor=&style=social)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3671a4&style=social)
+
+[![PELENIUM's GitHub stats](https://github-readme-stats.vercel.app/api?username=PELENIUM&show_icons=true&theme=onedark)](https://github.com/PELENIUM/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelenium&theme=onedark)](https://github.com/pelenium/github-readme-stats)
