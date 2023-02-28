@@ -12,3 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelenium&theme=onedark)](https://github.com/pelenium/github-readme-stats)
 
+![snake gif](https://github.com/PELENIUM/pelenium/blob/output/github-contribution-grid-snake.gif)
