@@ -2,8 +2,6 @@
 
 ## __Страус?__
 
-#
-
 ## __Языки__
 
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&&logoColor=ffffff&style=social)
