@@ -2,7 +2,7 @@
 
 ## __Страус?__
 
-## __Языки__
+## __Технологии__
 
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&&logoColor=ffffff&style=social)
 ![SFML](https://img.shields.io/badge/SFML-000000?style=for-the-badge&logo=sfml&logoColor=&style=social)
